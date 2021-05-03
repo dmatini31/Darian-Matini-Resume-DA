@@ -1,0 +1,125 @@
+---
+title: "Darian Matini Resume"
+author: Darian Matini
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # Thanks to Eric R. Scott for this tip! 
+    self_contained: false
+---
+
+Aside
+================================================================================
+
+
+![Data](data_icon.png){width=30%}
+<!-- ![Data](`r here::here("data_icon.png")`) -->
+
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i>kyle.monahan@tufts.edu
+- <i class="fa fa-github"></i> [github.com/kylemonahan/](https://github.com/kylemonahan/)
+- <i class="fa fa-phone"></i> +1 123-456-7891
+
+
+Skills {#skills}
+-------------------------------------------------------------------------------- Proficient in Microsoft Excel, PowerPoint, and Google Docs
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!--This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).-->
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Darian Matini  {#title}
+--------------------------------------------------------------------------------
+
+### Data Analytics student seeking Spring 2020 internship
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Tufts University Gordon Institute
+
+MS Candidate in Innovation and Management
+
+Medford, MA
+
+2021--Current
+
+
+### Tufts University
+
+B.A. in Economics
+
+Medford, MA 
+
+2016--2020
+
+
+
+Research Experience {data-icon=flask}
+--------------------------------------------------------------------------------
+
+### Martek Global
+
+Business Analyst 
+
+Bethesda, MD
+
+2019
+
+- Assisted in preparation of a variety of reports and proposals 
+- Researched federal regulations to ensure compliance with proposals
+- Assisted with data compilation, financial analysis, and preparation of financial projections 
+
+### Elm Ridge Captial
+
+Business Analyst
+
+Irvington, NY
+
+2018
+
+- Elm Ridge Capital is a value-orientated hedge fund located in Irvington, New York 
+- Worked on a project that focused on the retail industry where I assisted with data compilation and financial analysis
+- Helped target potential retail prospects for the company to invest in by using the information that I had compiled while      also taking into account what type of prospects the company usually invests in
+
+
+
+Selected Project Experience {data-icon=chalkboard-teacher}
+-------------------------------------------------------------------------------
+
+### Cerobex Drug Delivery Technologies
+
+Tufts University
+
+Medford, MA
+
+2021--Current
+
+- Partned were Dr. Qiaobing Xu in order to bring his revolutionary technology to market
+- Won $25,000 in price money
+
+Selected Presentations {data-icon=comment-alt}
+--------------------------------------------------------------------------------
+### EM294 Final Project
+
+Presented our final presentation for Cerobex to a variety of judges 
+
+Medford, MA
+
+May 2021
+
+
